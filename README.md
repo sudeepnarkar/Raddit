@@ -1,2 +1,2 @@
 # Raddit
-A link aggregator like Hacker News or Reddit with minimum viable features!
+A link aggregator like Hacker News or Reddit with minimum viable features.
